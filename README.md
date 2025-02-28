@@ -6,7 +6,7 @@
 This project focuses on classifying duplicate question pairs using the **Quora Question Pairs** dataset. The goal is to identify whether two given questions are semantically identical using various machine learning and deep learning models.
 
 ## Dataset
-Dataset Source: [Kaggle Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs)
+Dataset Source: [Office given Quora Question Pairs]
 
 ### Dataset Description
 - Total Samples: 404,287
